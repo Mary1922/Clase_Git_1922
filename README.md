@@ -1,4 +1,4 @@
-
+øOøøO
 # Clase_Git
 Clase de Git y GitHub 🚀
 Bienvenido/a a este repositorio de práctica.
@@ -24,53 +24,59 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 <!-- Añade tu línea aquí debajo -->
 
--**María José**: 
+-**Mariajosé**: "Hola, mundo" 
 
--**María Adriana**:
+-**Adriana**: ¡Feliz de estar por aquí!
 
--**Javier Ángel**:
+-**Javier**: 3.14159265358979323846
 
--**Gianmario**:
+-**Gianmario**: ¡Bienvenido a Github!
 
--**María Elena**:
+-**María Elena**: por fin
 
--**Helena DM**:
+-**Helena DM**: "Esto es una prueba - Elena Diaz"
 
--**María Isabel**:
+-**María Isabel**: "Realizado ok"
 
--**Luis Ahmedel**:
+-**Luis Ahmedel**: "Esto es una prueba"
 
 -**Anas Fady**:
 
 -**Elena Fernández**:
 
--**Vanessa**:
+-**Vanessa**: "Good things are coming"
 
--**Verónica**:
+-**Verónica**:"Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar… un dinosaurio"
 
--**José Manuel**:
+-**José Manuel**: Hola Amigos!
 
--**Pedro Leonardo**:
+-**Leo**: Suitability
 
--**David**:
+-**David**: Yamete
 
--**María Jesús**:
+-**María Jesús**: "La terminal me hace más caso que Phyton"
 
--**Yohanna**:
+-**Yohanna**: Esto es una prueba!
 
--**Elizabeth**:
+-**Elizabeth**: "Un camino de mil millas, se empieza por un sólo paso."
 
--**Laura SR**:
+-**Laura SR**: "Hoy puede ser un gran dia!"
 
--**Isabella**:
+-**Isabella**: "Cada error corregido nos lleva un paso mas cerca del futuro"
 
--**Gema**:
+-**Gema**: Eureka
 
--**Tatiana**:
+-**Tatiana**: "PRUEBA1"
 
 -**Melissa**:
 
--
+-**Abdur**:
+
+-**Joel Ibarra**:
+
+-**Efrain Peña:**
+
+-**José Melo**:
 
 Flujo de trabajo visto en clase
 **Fork** → **Clone** → **Branch** → **Editar** → **Commit** → **Push** → **Pull Request** → **Merge**
@@ -83,3 +89,6 @@ Flujo de trabajo visto en clase
 [Cheatsheet de comandos Git] (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
 
 
+Prueba de Elena en mi rama Ele_De_Vicente
+Nueva línea de prueba
+Cambio hecho en rama-prueba
