@@ -24,62 +24,50 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 <!-- Añade tu línea aquí debajo -->
 
--**María José**: 
+-**Roberto**: 
 
--**María Adriana**:
+-**Alejandra**: 
 
--**Javier Ángel**:
+-**Oscar**: 
 
--**Gianmario**:
+-**Sara**: Hola, buenas.
 
--**María Elena**:
+-**Nayibeth**:
 
--**Helena DM**:
+-**Jean Paul**: 
 
--**María Isabel**:
+-**Violeta**:
 
--**Luis Ahmedel**:
+-**María Pilar**: Laboratorio Git
 
--**Anas Fady**:
+-**David**: Hola mundo, ya me he incorporado 
 
--**Elena Fernández**:
+-**Luisa**:
 
--**Vanessa**:
+-**Karen**: 
 
--**Verónica**:
+-**Sebastián**:
 
--**José Manuel**:
+-**Kira**:
 
--**Pedro Leonardo**:
+-**William**:
 
--**David**:
+-**Susana**: 
 
--**María Jesús**:
+-**Francisco**:
 
--**Yohanna**:
+-**Jesmy**:
 
--**Elizabeth**:
+-**Doramas**:
 
--**Laura SR**:
-
--**Isabella**:
-
--**Gema**:
-
--**Tatiana**:
+-**Adolfo**: 
 
 -**Melissa**:
-
--
 
 Flujo de trabajo visto en clase
 **Fork** → **Clone** → **Branch** → **Editar** → **Commit** → **Push** → **Pull Request** → **Merge**
 
 ### Recursos útiles
 
-[Documentación oficial de Git] (https://git-scm.com/docs/git/es)
- 
-
-[Cheatsheet de comandos Git] (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
-
-
+- [Documentación oficial de Git](https://git-scm.com/docs/git/es)
+- [Cheatsheet de comandos Git](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
